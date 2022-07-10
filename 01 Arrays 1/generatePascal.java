@@ -1,4 +1,6 @@
  public List<List<Integer>> generate(int numRows) {
+        // Time Complexity :o(n^2)
+        // Space Complexity :o(n^2)
         List<List<Integer>> pascal = new ArrayList<>();
         int [][] mat = new int[numRows][];
         for(int i=0;i<numRows;i++)
