@@ -1,4 +1,4 @@
-public void nextPermutation(int[] nums) {
+public static  void nextPermutation(int[] nums) {
         // Time Complexity : n+n+n :o(n)
         // space Complexity : o(1)
         int p1=-1,n=nums.length;
