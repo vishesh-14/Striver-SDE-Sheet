@@ -1,6 +1,8 @@
  public void setZeroes(int[][] matrix) {
-      //----------------------------------------//
-      // Better Approach//
+         //----------------------------------------//
+        // Time Complexity : o(n^2)
+        // Space Complexity :o(n+m)
+        // Better Approach//
         int n=matrix.length,m=matrix[0].length;
        
         boolean [] row = new boolean[n];
@@ -46,7 +48,8 @@
         
         //------------------------------------------------//
         // Final Approach 
-        
+        // Time Complexity : o(n^2)
+        // Space Complexity :o(1)
         int n=matrix.length,m=matrix[0].length;
         int col=1;
       
