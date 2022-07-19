@@ -83,8 +83,8 @@
   <br>
   
 </details>
-## Day-4: (Linked List)
 
+## Day-5: (Linked List)
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--IV-6-brightgreen"></summary>
   
