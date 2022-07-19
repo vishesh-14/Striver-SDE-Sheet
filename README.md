@@ -83,4 +83,24 @@
   <br>
   
 </details>
+## Day-4: (Linked List)
+
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--IV-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Reverse a LinkedList](https://takeuforward.org/data-structure/reverse-a-linked-list/)                                                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/06%20LinkedList/Reverse-Linked-List.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Find the middle of LinkedList](https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/)                            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/06%20LinkedList/Middle-of-the-LinkedList.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Merge two sorted Linked List](https://takeuforward.org/data-structure/merge-two-sorted-linked-lists/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/06%20LinkedList/Merge-Two-Sorted-Lists.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Remove N-th node from back ](https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/)            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/06%20LinkedList/Remove-Nth-Node-From-End-of-List.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Add two numbers as LinkedList](https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/)                      |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/06%20LinkedList/Add-Two-Numbers.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[Delete a given Node when a node is given](https://takeuforward.org/data-structure/delete-given-node-in-a-linked-list-o1-approach/)                                            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/06%20LinkedList/Delete-Node-in-a-LinkedList.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
 
