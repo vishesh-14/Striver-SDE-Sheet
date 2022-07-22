@@ -84,7 +84,7 @@
   
 </details>
 
-## Day-6: (Linked List)
+## Day-5: (Linked List)
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--IV-6-brightgreen"></summary>
   
@@ -104,7 +104,7 @@
   
 </details>
 
-## Day-5: (Linked List-II)
+## Day-6: (Linked List-II)
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--IV-6-brightgreen"></summary>
   
@@ -112,7 +112,7 @@
   |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
   |   1   |[  Find intersection point LinkedList](https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/)                                                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/07%20LinkedList%202/Find-intersection-LinkedList.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
   |   2   |[Detect a cycle in Linked 
-List](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/)                            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/07%20LinkedList%202/Linked-List-Cycle.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+List](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/)                           |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/07%20LinkedList%202/Linked-List-Cycle.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
   |   3   |[Reverse a LinkedList in groups k.](https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/07%20LinkedList%202/Reverse-Nodes-in-k-Group.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
   |   4   |[  Check if a LinkedList is palindrome](https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/)            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/07%20LinkedList%202/Palindrome-Linked-List.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
   |   5   |[Starting point of loop Linked List](https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/)                      |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/07%20LinkedList%202/Linked-List-Cycle-II.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
