@@ -125,3 +125,23 @@
   
 </details>
 
+## Day-7: (Linked List-III)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--IV-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Rotate a LinkedList](https://takeuforward.org/data-structure/rotate-a-linked-list/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/08%20LinkedList%203/Rotate-List.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |Clone a Linked List](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/08%20LinkedList%203/Copy-List-Random-Pointer.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[3 sum](https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/08%20LinkedList%203/3sum.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Trapping rainwater](https://takeuforward.org/data-structure/trapping-rainwater/)            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/08%20LinkedList%203/Trapping-Rain-Water.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Remove Duplicate from Sorted array](https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/08%20LinkedList%203/Remove-Duplicates-Sorted-Array.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[ Max consecutive ones](https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/)                                            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/08%20LinkedList%203/Max-Consecutive-Ones.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
+
