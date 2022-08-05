@@ -145,3 +145,24 @@
   
 </details>
 
+## Day-8: (Greedy Algorithm)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--IV-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[N meetings in room](https://takeuforward.org/data-structure/n-meetings-in-one-room/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/09%20Greedy/N-meetings.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Minimum number of platforms  railway](https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/09%20Greedy/Minimum-Platforms.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Job sequencing Problem](https://takeuforward.org/data-structure/job-sequencing-problem/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/09%20Greedy/Job-Sequencing-Problem.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Fractional Knapsack Problem](https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/)            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/09%20Greedy/Fractional-Knapsack.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Number of Coins](https://takeuforward.org/data-structure/find-minimum-number-of-coins/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/09%20Greedy/Number-of-Coins.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
+
+
