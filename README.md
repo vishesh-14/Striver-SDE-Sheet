@@ -166,3 +166,22 @@
 </details>
 
 
+## Day-9: (Recursion)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--IV-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Subset Sums](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/10%20%20Recursion/Subset-Sums.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Subset – II ](https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/10%20%20Recursion/Subsets-II.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Combination Sum – I](https://takeuforward.org/data-structure/combination-sum-1/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/10%20%20Recursion/combination-sum.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Combination Sum II](https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/)            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/10%20%20Recursion/Combination-Sum-II.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Palindrome Partitioning](https://takeuforward.org/data-structure/palindrome-partitioning/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/10%20%20Recursion/Palindrome-Partitioning.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
