@@ -185,3 +185,25 @@
   <br>
   
 </details>
+
+
+## Day-10: (Recursion and Backtracking)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/ARRAYS%20PART--IV-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Print all permutations of a array](https://takeuforward.org/data-structure/print-all-permutations-of-a-string-array/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/11%20Recursion%20and%20Backtracking/Permutations.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[N Queen Problem](https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/11%20Recursion%20and%20Backtracking/N-Queens.cpp"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Sudoku Solver](https://takeuforward.org/data-structure/sudoku-solver/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/11%20Recursion%20and%20Backtracking/Sudoku-Solver.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[M – Coloring Problem](https://takeuforward.org/data-structure/m-coloring-problem/)            |<a   href=""><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Rat in a Maze](https://takeuforward.org/data-structure/rat-in-a-maze/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/11%20Recursion%20and%20Backtracking/Rat-in-Maze.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[Word Break](https://www.geeksforgeeks.org/word-break-problem-using-backtracking/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/11%20Recursion%20and%20Backtracking/Word-Break.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
