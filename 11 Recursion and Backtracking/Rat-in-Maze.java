@@ -3,7 +3,7 @@ class Solution {
     public static ArrayList<String> findPath(int[][] m, int n) {
         
         // TimeComplexity : o(4^(m*n))
-        // Space Complexity :o(m*n)
+        // Space Complexity : o(m*n)
         result.clear();
         if(m[0][0]==0)
         return result;
