@@ -1,5 +1,7 @@
 double multiply(double val,int n);
 double findNthRootOfM(int n, int m) {
+    // Time Complexity : o(nlogm)
+    // Space Complexity : o(1)
     double low = 1;
         double high = m;
         double eps = 1e-9; 
