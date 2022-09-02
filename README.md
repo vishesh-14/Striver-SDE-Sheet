@@ -207,3 +207,26 @@
   <br>
   
 </details>
+
+## Day-11: (Binary Search)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Binary %20Search-8-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[The N-th root of an integer](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/12%20Binary%20Search/N-th-root.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Matrix Median](https://www.geeksforgeeks.org/find-median-row-wise-sorted-matrix/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/12%20Binary%20Search/Matrix-Median.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Single-Element-Sorted-Array](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/12%20Binary%20Search/Single-Element-Sorted-Array.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Search-in-Rotated-Sorted-Array](https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/)            |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/12%20Binary%20Search/Search-in-Rotated-Sorted-Array.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Median of 2 sorted arrays](https://takeuforward.org/data-structure/median-of-two-sorted-arrays-of-different-sizes/)  |<a   href=""><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[K-th Element two sorted arrays](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/)  |<a   href=""><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+   |   7  |[Allocate Minimum Number of Pages](https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/12%20Binary%20Search/Allocate-Minimum.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+   |   8   |[ Aggressive Cows](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/12%20Binary%20Search/Aggressive-Cows.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
