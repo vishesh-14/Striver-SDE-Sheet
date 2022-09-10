@@ -42,6 +42,6 @@ class Node implements Comparable<Node>
     {
          if(this.val!=obj.val)
          return this.val-obj.val;
-         return -1;
+        return -1;
     }
 }
