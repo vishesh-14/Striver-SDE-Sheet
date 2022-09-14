@@ -1,5 +1,7 @@
 
 public class Stack {
+    // Time Complexity : o(1)
+   // Space  Complexity :o(n)
     int size=-1,top=-1;
     int [] arr;
     Stack(int size)
