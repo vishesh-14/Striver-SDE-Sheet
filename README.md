@@ -230,3 +230,25 @@
   <br>
   
 </details>
+
+## Day-12: (Heaps)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/Heaps %20-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Max heap-Min Heap](https://www.geeksforgeeks.org/max-heap-in-java/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/13%20Heaps/maxheap_minheap.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Kth Largest Element](https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/13%20Heaps/Kth-Largest-Element.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[  Maximum Sum Combination](https://www.geeksforgeeks.org/k-maximum-sum-combinations-two-arrays/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/13%20Heaps/Maximum-Sum-Combination.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Find Median from Data Stream](https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/)|<a   href=""><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Merge K sorted arrays](https://www.geeksforgeeks.org/merge-k-sorted-arrays/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/13%20Heaps/Merge-K-Sorted-Arrays.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[K most frequent elements](https://www.geeksforgeeks.org/find-k-numbers-occurrences-given-array/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/13%20Heaps/Top-K-Frequent-Elements.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
