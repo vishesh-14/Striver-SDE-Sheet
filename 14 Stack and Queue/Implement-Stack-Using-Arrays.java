@@ -37,7 +37,7 @@ public class Stack {
         return 0;
     }
     int isFull() {
-        // Write your code here.
+       // Write your code here.
         if(top==size)
             return 1;
         return 0;
