@@ -252,3 +252,27 @@
   <br>
   
 </details>
+
+
+## Day-13: (Stack and Queue)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/STACK  and  %20 QUEUE-7-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Implement Stack Using Arrays](https://takeuforward.org/data-structure/implement-stack-using-array/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/14%20Stack%20and%20Queue/Implement-Stack-Using-Arrays.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Implement Queue Using Arrays](https://takeuforward.org/data-structure/implement-queue-using-array/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/14%20Stack%20and%20Queue/Implement-a-Queue.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[  Implement Stack using Queue (using single queue)](https://takeuforward.org/data-structure/implement-stack-using-single-queue/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/14%20Stack%20and%20Queue/Implement-Stack-using-Queues.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[  Implement Queue using Stack (0(1) amortized method)](https://takeuforward.org/data-structure/implement-queue-using-stack/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/14%20Stack%20and%20Queue/Implement-Queue-using-Stack.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Check for balanced parentheses](https://takeuforward.org/data-structure/check-for-balanced-parentheses/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/14%20Stack%20and%20Queue/Valid-Parentheses.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[Next Greater Element](https://takeuforward.org/data-structure/next-greater-element-using-stack/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/14%20Stack%20and%20Queue/Next-Greater-Element-II.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   7   |[Sort a Stack](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/14%20Stack%20and%20Queue/Sort-Stack.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
