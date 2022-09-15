@@ -1,5 +1,7 @@
 
 public class Stack {
+    // Time Complexity : o(1)
+   // Space  Complexity :o(n)
     int size=-1,top=-1;
     int [] arr;
     Stack(int size)
@@ -35,7 +37,7 @@ public class Stack {
         return 0;
     }
     int isFull() {
-        // Write your code here.
+       // Write your code here.
         if(top==size)
             return 1;
         return 0;
