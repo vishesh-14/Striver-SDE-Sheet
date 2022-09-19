@@ -43,7 +43,7 @@ class Solution {
                      {
                          vis[new_r][new_c]=true;
                          Node nm=new Node(new_r,new_c);
-                         q.add(nm);
+                          q.add(nm);
                      }
                 }
                 
