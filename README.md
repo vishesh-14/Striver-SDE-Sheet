@@ -276,3 +276,30 @@
   <br>
   
 </details>
+
+
+## Day-14: (Stack and Queue-II)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/STACKS and%20QUEUE%20PART--II-10-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Next Smaller Element](https://www.geeksforgeeks.org/next-smaller-element/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/15%20Stack%20and%20Queue%202/Nearest-Smaller-Element.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[LRU Cache](https://takeuforward.org/data-structure/implement-lru-cache/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/15%20Stack%20and%20Queue%202/LRU-Cache.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[LFU Cache](https://www.geeksforgeeks.org/least-frequently-used-lfu-cache-implementation/)|<a   href=""><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Largest rectangle in a histogram](https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/15%20Stack%20and%20Queue%202/Largest-Rectangle-in-Histogram.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[  Sliding Window maximum](https://takeuforward.org/data-structure/sliding-window-maximum/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/15%20Stack%20and%20Queue%202/Sliding-Window-Maximum.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[Implement Min Stack](https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/15%20Stack%20and%20Queue%202/Min-Stack.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   7   |[Rotten Orange (Using BFS)](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/15%20Stack%20and%20Queue%202/Rotting-Oranges.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   8   |[Stock Span Problem](https://www.geeksforgeeks.org/the-stock-span-problem/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/15%20Stack%20and%20Queue%202/Stock-Span.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   9   |[Find the maximum of minimums of every window size](https://www.geeksforgeeks.org/find-the-maximum-of-minimums-for-every-window-size-in-a-given-array/)  |<a   href=""><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   10   |[The Celebrity Problem](https://www.geeksforgeeks.org/the-celebrity-problem/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/15%20Stack%20and%20Queue%202/Celebrity-Problem.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
