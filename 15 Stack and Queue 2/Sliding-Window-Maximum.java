@@ -15,7 +15,7 @@ public int[] maxSlidingWindow(int[] nums, int k) {
         {
              while(!dq.isEmpty() && dq.peek()<=i-k)
                  dq.pollFirst();
-             while(!dq.isEmpty() && nums[i]>=nums[dq.peekLast()])
+              while(!dq.isEmpty() && nums[i]>=nums[dq.peekLast()])
                  dq.pollLast();
             dq.offerLast(i);
             maximums[idx++]=nums[dq.peekFirst()];
