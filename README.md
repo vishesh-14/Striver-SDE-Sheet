@@ -303,3 +303,25 @@
   <br>
   
 </details>
+
+## Day-15: (String)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/HEAPS %20-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Reverse Words in a String](https://takeuforward.org/data-structure/reverse-words-in-a-string/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/16%20Strings/reverseWords.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Longest Palindrome in a string](https://www.geeksforgeeks.org/longest-palindrome-substring-set-1/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/16%20Strings/Longest-Palindromic-Substring.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Roman Number to Integer](https://www.geeksforgeeks.org/converting-roman-numerals-decimal-lying-1-3999/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/16%20Strings/Roman-to-Integer.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Implement ATOI/STRSTR](https://www.geeksforgeeks.org/write-your-own-atoi/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/16%20Strings/String-to-Integer.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Longest Common Prefix](https://www.geeksforgeeks.org/longest-common-prefix-using-sorting/#:~:text=The%20longest%20common%20prefix%20for,not%20share%20any%20starting%20characters.)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/16%20Strings/Longest-Common-Prefix.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[Rabin Karp](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/16%20Strings/Rabin-Krap.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
