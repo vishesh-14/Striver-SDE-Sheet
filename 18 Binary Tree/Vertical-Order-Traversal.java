@@ -30,7 +30,7 @@
         else
         {
             ArrayList<Integer> al=new ArrayList<Integer>();
-             al.add(root.val);
+            al.add(root.val);
             map.put(line,al);
         }
         doPostOrder(root.left,line-1,map);
