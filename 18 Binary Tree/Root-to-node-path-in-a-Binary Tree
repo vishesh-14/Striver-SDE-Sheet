@@ -1,0 +1,19 @@
+ public ArrayList<Integer> solve(TreeNode A, int B) {
+        // Time Complexity : o(n)
+        // Space Complexity: o(n+n)
+        ArrayList<Integer> path=new ArrayList<Integer>();
+         preorder(A,B,path);
+         return path;
+    }
+    public static boolean preorder(TreeNode root,int target,ArrayList<Integer> path)
+    {
+         if(root==null)
+         return false;
+         path.add(root.val);
+          if(root.val==target)
+          return true;
+           if(preorder(root.left,target,path) || preorder(root.right,target,path))
+           return true;
+           path.remove(path.size()-1);
+           return false;
+    }
