@@ -346,7 +346,7 @@
     </div>
   <br>
 
-  ## Day-16: (Binary Tree)
+  ## Day-17: (Binary Tree)
 <details>
   <summary><img id="array" src="https://img.shields.io/badge/BINARY %20TREE%20-12-brightgreen"></summary>
   
