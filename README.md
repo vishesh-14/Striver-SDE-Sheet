@@ -345,6 +345,7 @@
       <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
     </div>
   <br>
+</details>
 
   ## Day-17: (Binary Tree)
 <details>
