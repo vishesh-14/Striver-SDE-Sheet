@@ -306,7 +306,7 @@
 
 ## Day-15: (String)
 <details>
-  <summary><img id="array" src="https://img.shields.io/badge/STRINGS %20-6-brightgreen"></summary>
+  <summary><img id="array" src="https://img.shields.io/badge/STRINGS%20PART--II-6-brightgreen"></summary>
   
   | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
   |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -316,6 +316,28 @@
   |   4   |[Implement ATOI/STRSTR](https://www.geeksforgeeks.org/write-your-own-atoi/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/16%20Strings/String-to-Integer.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
   |   5   |[Longest Common Prefix](https://www.geeksforgeeks.org/longest-common-prefix-using-sorting/#:~:text=The%20longest%20common%20prefix%20for,not%20share%20any%20starting%20characters.)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/16%20Strings/Longest-Common-Prefix.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
   |   6   |[Rabin Karp](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/16%20Strings/Rabin-Krap.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
+</details>
+
+## Day-16: (String-II)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/STRINGS %20-6-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Z-Function](https://www.geeksforgeeks.org/z-algorithm-linear-time-pattern-searching-algorithm/)       |<a   href=""><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[KMP algo / LPS(pi) array](geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)                 |<a   href=""><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Minimum characters inserted in the beginning](https://www.geeksforgeeks.org/minimum-characters-added-front-make-string-palindrome/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/17%20Strings%202/Minimum-characters-needed-to-be-inserted-in-the-beginning.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Check for Anagrams](geeksforgeeks.org/check-whether-two-strings-are-anagram-of-each-other/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/17%20Strings%202/Anagram.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[Count and Say](https://www.geeksforgeeks.org/look-and-say-sequence/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/17%20Strings%202/Count-and-Say.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[Compare version numbers](https://www.geeksforgeeks.org/compare-two-version-numbers/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/17%20Strings%202/Compare-Version-Numbers.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
   
   
   <br>
