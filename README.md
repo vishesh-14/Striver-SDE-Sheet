@@ -345,5 +345,32 @@
       <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
     </div>
   <br>
+
+  ## Day-16: (Binary Tree)
+<details>
+  <summary><img id="array" src="https://img.shields.io/badge/BINARY %20TREE%20-12-brightgreen"></summary>
+  
+  | S.No. | Problem                                                                                                                     | Solutions                                                                                                                                                                                                                                                                 |
+  |-------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  |   1   |[Inorder Traversal](https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Inorder-Traversal.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   2   |[Preorder Traversal](https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Preorder-Traversal.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   3   |[Postorder Traversal](https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Postorder-Traversal.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   4   |[Morris Inorder](https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Morris-Inorder-Traversal.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   5   |[  Morris Preorder Traversal](https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Morris-Preorder-Traversal.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   6   |[LeftView Of Binary Tree](https://takeuforward.org/data-structure/right-left-view-of-binary-tree/)  |<a   href=https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/LeftView-Of-Binary-Tree.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   7   |[Bottom View of Binary Tree](https://takeuforward.org/data-structure/bottom-view-of-a-binary-tree/)       |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Bottom-View-of-Binary-Tree.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   8   |[Top View of Binary Tree](https://takeuforward.org/data-structure/top-view-of-a-binary-tree/)                 |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Top-View-of-Binary-Tree.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   9   |[Preorder Inorder Postorder Traversals](https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Tree-Traversals.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   10   |[Vertical order traversal](https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/)|<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Vertical-Order-Traversal.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   11   |[Root to node path in a Binary Tree](https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Root-to-node-path-in-a-Binary%20Tree"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  |   12   |[Max width of a Binary Tree](https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/)  |<a   href="https://github.com/vishesh-14/Striver-SDE-Sheet/blob/master/18%20Binary%20Tree/Maximum-Width-of-Binary-Tree.java"><img src="https://img.shields.io/badge/-%20Solution-brightgreen"></a>
+  
+  
+  <br>
+    <div align="right">
+      <h3><b><a href="#striver-sde-sheet-challenge">⬆️ Back to Top</a></b></h3>
+    </div>
+  <br>
+  
   
 </details>
