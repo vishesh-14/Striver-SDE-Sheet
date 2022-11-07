@@ -1,5 +1,7 @@
 public static int  findFloor(TreeNode<Integer> root,int X)
-    {
+{
+    // Time Complexity : O(n)
+    // Space Complexity : o(n)
          if(root==null)
              return Integer.MAX_VALUE;
            if(root.data>X)
